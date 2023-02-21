@@ -1,0 +1,86 @@
+.photo{
+    margin-bottom: 10%;
+    padding:0% 3%;
+    width: 20%;
+    height: 10%;
+    
+}
+.dove{
+float: left;
+margin: 3%;
+padding: 0% 2%;
+height: 3%;
+width: 10%;
+
+}
+.fits{
+    float:left;
+    margin: 3%;
+    height: 3%;
+    width: 10%;
+    padding: 0% 3%;
+}
+.rigwa{
+    float: left;
+    height: 3%;
+    width: 10%;
+    padding: 0% 3%;
+
+}
+.good{
+border-radius: 2px;
+border:solid;color:black;
+height: 100px;
+width: 100px;
+background-color: rgb(165, 42, 138);
+padding: 10px;
+margin: 20px;
+float: right;
+
+}
+.better{
+    border-radius: 2pxp;
+    border: solid;color: aqua;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 20px;
+    flex-direction: row;
+    float: right;
+}
+.best{
+    border-radius: 2px;
+    border: solid;color: rgb(205, 211, 210);
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: royalblue;
+    margin: 1em;
+    float: right;
+    flex-direction: row;
+}
+.chat{
+
+    
+    text-align: center;
+    float: right;
+}
+h4{
+    text-align: center;
+    float: right;
+}
+h3{
+    float:right;
+text-align: justify;
+}
+.bars{
+    border: 2px;
+    text-align: center;
+    float: right;
+
+}
+
+
+
+
