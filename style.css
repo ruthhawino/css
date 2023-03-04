@@ -5,6 +5,13 @@
     height: 10%;
     top: -150px;
 }
+.web{
+    border:solid;
+    border-radius: 1%;
+    border-color: blue;
+    border-bottom: none;
+    border-width: 70px;
+}
 .general{
     border: solid;
     border-bottom: solid;
@@ -120,7 +127,7 @@ height: 3%;
    display: flex;
    text-align: center;
    text-decoration: grey;
-   left: 50%;
+   left: 48%;
 
 
    
@@ -129,7 +136,7 @@ height: 3%;
 }
 .l1{
     color: blue;
-    width:40%;
+    width:35%;
     border: solid;color: blue;
     
 }
@@ -150,11 +157,11 @@ background-color: white;
     border: white;
     background-color: white;
     height: 13%;
-    width: 25%;
+    width: 20%;
 }
 .l2{
     color: orangered;
-    width: 40%;
+    width: 35%;
     border: solid;color: orangered;
     
 }
